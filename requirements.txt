@@ -1,0 +1,7 @@
+# data wrangling
+numpy=1.23.5
+pandas=1.5.3
+
+# data visualization
+matplotlib=3.7.0
+seaborn=0.12.2
