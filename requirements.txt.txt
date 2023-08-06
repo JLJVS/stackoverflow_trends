@@ -1,7 +1,0 @@
-# pandas and numpy were used for data manipulation/wrangling
-pandas==1.23.5
-numpy==1.5.3
-
-# matplotlib and seaborn were used for data visualization
-matplotlib==3.7.0
-seaborn==0.12.2
